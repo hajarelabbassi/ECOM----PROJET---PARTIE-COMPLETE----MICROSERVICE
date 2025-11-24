@@ -46,15 +46,6 @@ Service discovery status page.
 
 ---
 
-## Table of Contents
-1. [Architecture](#architecture)
-2. [Repository Layout](#repository-layout)
-3. [Technology Highlights](#technology-highlights)
-4. [Getting Started](#getting-started)
-5. [Running the Microservices](#running-the-microservices)
-6. [Running the Angular Frontend](#running-the-angular-frontend)
-7. [Key Endpoints & URLs](#key-endpoints--urls)
-8. [Development Tips](#development-tips)
 
 ---
 
