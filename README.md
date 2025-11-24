@@ -8,40 +8,41 @@
 ### Products – `http://localhost:4200/products`
 Product catalog .
 
-![Products](https://github.com/user-attachments/assets/f0398c22-1ea0-4cbe-8fa6-f925f5740542)
+<img width="1887" height="851" alt="image" src="https://github.com/user-attachments/assets/9a41cd91-b24c-4660-8332-991f4e9ec6b8" />
+
 
 ### Customers – `http://localhost:4200/customers`
 Customer directory .
 
-![Customers](https://github.com/user-attachments/assets/51a60722-668e-4939-a4c3-af28c682a594)
+<img width="1872" height="886" alt="image" src="https://github.com/user-attachments/assets/e2125ee4-c1fa-433e-accd-1e42a7316ca9" />
 
 ### Orders Timeline – `http://localhost:4200/orders/<customerId>`
 Timeline of bills for a given customer.
 
-![Orders](https://github.com/user-attachments/assets/335dac19-5311-432a-a098-fc40fd849c0d)
+<img width="1882" height="821" alt="image" src="https://github.com/user-attachments/assets/47677033-08d2-429a-b316-b6cd6f0dd4f9" />
 
 ### Order Details – `http://localhost:4200/order-details/<billId>`
 Detailed bill with line items and totals.
 
-![Order Details](https://github.com/user-attachments/assets/2d55fed6-a411-4e1c-aa0f-861af51aa9fb)
+<img width="1872" height="863" alt="image" src="https://github.com/user-attachments/assets/fd366abb-b201-40a9-b515-e8d2b05355cf" />
 
 ### Eureka Dashboard – `http://localhost:8761`
 Service discovery status page.
 
-![Eureka](https://github.com/user-attachments/assets/f49308a2-40ef-4bae-ac21-51fe06a9e8ab)
+<img width="1881" height="928" alt="image" src="https://github.com/user-attachments/assets/414e17d8-8bba-4a3d-a17f-47f6208ae263" />
 
 ### REST APIs via Gateway
 - Customers – `http://localhost:8888/customer-service/api/customers`
 
-  ![Customers API](https://github.com/user-attachments/assets/a8747db2-632d-46a0-a3c4-786115651420)
+<img width="1446" height="967" alt="image" src="https://github.com/user-attachments/assets/451832c0-8560-4280-8a2c-639d8a448e7c" />
 
 - Inventory – `http://localhost:8888/inventory-service/api/products`
 
-  ![Inventory API](https://github.com/user-attachments/assets/665b35eb-cc4d-4936-ad6d-75495540fa2d)
+<img width="1327" height="958" alt="image" src="https://github.com/user-attachments/assets/f85b5bfe-1e3f-4998-900b-7529f7186101" />
 
 - Billing – `http://localhost:8888/billing-service/api/bills`
 
-  ![Billing API](https://github.com/user-attachments/assets/92bf2587-b0ef-413d-9209-ef635b2ec84d)
+<img width="1226" height="964" alt="image" src="https://github.com/user-attachments/assets/55be6d93-6ac4-4c94-a1b6-efd1e8957c71" />
 
 ---
 
